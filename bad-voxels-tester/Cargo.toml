@@ -1,7 +1,7 @@
 [package]
-name = "bad-voxels-tester"
+name = "badvoxelstester"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-bad-voxels = { path = "../" }
+badvoxels = { path = "../" }
