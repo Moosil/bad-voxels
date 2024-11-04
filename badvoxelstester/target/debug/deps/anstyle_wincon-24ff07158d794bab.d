@@ -1,0 +1,10 @@
+C:\Users\School\RustroverProjects\badvoxels\badvoxelstester\target\debug\deps\libanstyle_wincon-24ff07158d794bab.rmeta: C:\Users\School\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.6\src/lib.rs C:\Users\School\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.6\src\ansi.rs C:\Users\School\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.6\src\stream.rs C:\Users\School\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.6\src\windows.rs
+
+C:\Users\School\RustroverProjects\badvoxels\badvoxelstester\target\debug\deps\libanstyle_wincon-24ff07158d794bab.rlib: C:\Users\School\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.6\src/lib.rs C:\Users\School\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.6\src\ansi.rs C:\Users\School\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.6\src\stream.rs C:\Users\School\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.6\src\windows.rs
+
+C:\Users\School\RustroverProjects\badvoxels\badvoxelstester\target\debug\deps\anstyle_wincon-24ff07158d794bab.d: C:\Users\School\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.6\src/lib.rs C:\Users\School\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.6\src\ansi.rs C:\Users\School\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.6\src\stream.rs C:\Users\School\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.6\src\windows.rs
+
+C:\Users\School\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.6\src/lib.rs:
+C:\Users\School\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.6\src\ansi.rs:
+C:\Users\School\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.6\src\stream.rs:
+C:\Users\School\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.6\src\windows.rs:
